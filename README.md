@@ -12,7 +12,7 @@ Features
 * Protected routes using OAuth2
 
 
-### 🏪 Restaurant Management (Owner)
+###  Restaurant Management (Owner)
 
 * Claim a restaurant
 * Create and manage menu items
@@ -20,7 +20,7 @@ Features
 
 ---
 
-### 🍔 Customer Flow
+###  Customer Flow
 
 * Browse restaurants
 * View menu items
@@ -29,7 +29,7 @@ Features
 
 ---
 
-### 🚴 Rider Flow
+###  Rider Flow
 
 * View available orders (pending & unassigned)
 * Accept orders
@@ -39,7 +39,7 @@ Features
 
 ---
 
-### 📦 Order System
+###  Order System
 
 * Orders linked to:
 
@@ -54,7 +54,7 @@ Features
 
 ---
 
-## 🧱 Tech Stack
+##  Tech Stack
 
 * FastAPI
 * PostgreSQL
@@ -66,7 +66,7 @@ Features
 
 ---
 
-## ⚙️ Run the Project
+##  Run the Project
 
 ```bash
 docker compose up --build
@@ -80,7 +80,7 @@ http://127.0.0.1:8000/docs
 
 ---
 
-## 🔄 Example Workflow
+##  Example Workflow
 
 1. Register users (customer / rider / owner)
 2. Owner claims restaurant and creates menu
@@ -90,7 +90,7 @@ http://127.0.0.1:8000/docs
 
 ---
 
-## 📊 Example Order Response
+##  Example Order Response
 
 ```json
 {
@@ -107,7 +107,7 @@ http://127.0.0.1:8000/docs
 
 ---
 
-## 📈 Future Improvements
+##  Future Improvements
 
 * Frontend (React / Next.js)
 * Payment integration
@@ -117,6 +117,6 @@ http://127.0.0.1:8000/docs
 
 ---
 
-## 💼 Author
+##  Author
 
 Ziyi
